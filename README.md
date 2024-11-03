@@ -27,7 +27,7 @@ cd code-path
 
 ### Execute o Programa:
 ```bash
-python main.py
+python code_path.py
 ```
 
 ### Passos para Análise:
